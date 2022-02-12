@@ -1,4 +1,4 @@
-# ST 299-1:2009 - SMPTE Standard - 24-Bit Digital Audio Format for SMPTE 292 Bit-Serial Interface
+# ST 299-1 - SMPTE Standard - 24-Bit Digital Audio Format for SMPTE 292 Bit-Serial Interface
 
 _This repository is *public*._
 
